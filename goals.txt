@@ -1,0 +1,7 @@
+1) NN model realisation +
+2) Numerically integrating the Lorenz equations +
+3) Make datasets: training & testing +
+4) Training the NN model +
+5) Predicting +
+6) Analyse +
+7) SINDy realisation
